@@ -1,0 +1,5 @@
+gigachat
+requests
+urllib3
+matplotlib
+python-dotenv
