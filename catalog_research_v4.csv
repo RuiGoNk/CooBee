@@ -1,0 +1,209 @@
+id,type,title,brand,model,description,category,tags,price_min,price_max,occasions,recipient_types,gender_affinity,rating,reviews_count,popularity,stock,delivery_days,professions,kid_age_groups,age_groups_adult,relationship_level,family_status,pet_tags,is_pair,style,for_whom,city_scope,source_ref
+item_001,product,Спиннинг телескопический 2.1м,Daiwa,Crossfire 2.1m,Телескопическая удочка для любительской рыбалки.,fishing,fishing|travel,1500,2500,birthday|newyear|just_because,friend|relative,male,4.5,180,72,45,3,any,,26-35|36-45|46-55,close|friendly,any,,false,any,adult,national,WB Спиннинги
+item_002,product,Набор блесен и воблеров 20шт,Usami,Spinner Set 20,Набор искусственных приманок для ловли хищной рыбы.,fishing,fishing,800,1500,birthday|just_because,friend|colleague,male,4.6,320,80,120,2,any,,18-25|26-35|36-45|46-55,close|friendly,any,,false,any,adult,national,WB Приманки
+item_003,product,Термос рыбацкий 1л,Stanley,Classic 1L,Металлический термос объемом 1 литр. Долго держит тепло.,fishing,fishing|travel|coffee,1200,2200,newyear|birthday|just_because,relative|friend,any,4.7,540,85,80,2,any,,26-35|36-45|46-55|56+,close|friendly|formal,any,,false,any,adult,national,WB Термосы
+item_004,product,Складной рыбацкий стул,Greenell,Comfort Chair,Складной стул для рыбалки или кемпинга. Легкий каркас.,fishing,fishing|travel,1800,3200,birthday|just_because,relative|friend,male,4.3,95,55,30,5,any,,36-45|46-55|56+,close|friendly,any,,false,any,adult,national,WB Турмебель
+item_005,product,Набор ножей шефа 3шт,Samura,Harakiri 3pcs,Набор из трех кухонных ножей из стали. Эргономичные рукояти.,cooking,cooking,2000,3500,birthday|wedding|newyear,partner|friend,any,4.8,410,88,60,3,any,,26-35|36-45|46-55,close|friendly,married|in_relationship,,false,any,adult,national,WB Ножи
+item_006,product,Чугунная сковорода 26см,Le Creuset,Signature 26cm,Чугунная сковорода диаметром 26 см. Равномерно распределяет тепло.,cooking,cooking,1800,3000,wedding|birthday|just_because,relative|friend,any,4.7,620,82,75,4,any,,36-45|46-55|56+,close|friendly,married,,false,classic,adult,national,WB Чугун
+item_007,product,Набор специй 12 баночек,Kotanyi,Spice Set 12,Набор из 12 популярных специй в стеклянных баночках.,cooking,cooking,900,1600,newyear|birthday|just_because,colleague|friend,any,4.4,230,64,150,2,any,,26-35|36-45,close|friendly|formal,any,,false,any,adult,national,WB Специи
+item_008,product,Кофемолка ручная,Timemore,Chestnut C2,Ручная кофемолка с керамическими жерновами.,cooking,coffee|cooking,2200,3800,birthday|newyear,partner|friend,any,4.6,190,70,40,3,any,,26-35|36-45,close|friendly,any,,false,hi_tech,adult,national,WB Кофемолки
+item_009,product,Набор для ухода за лицом 5 предметов,L'Oreal,Beauty Box 5,Подарочный набор косметики для ухода за лицом.,beauty,beauty,1500,2800,birthday|newyear|just_because,friend|partner|teen,female,4.5,340,78,90,2,any,,18-25|26-35|36-45,close|friendly,any,,false,any,adult,national,WB Косметика
+item_010,product,Массажер для лица роллер,Foreo,Bear Mini,Массажер для лица роллер. Улучшает микроциркуляцию.,beauty,beauty,900,1700,birthday|just_because,friend|colleague|teen,female,4.2,120,58,110,2,any,,18-25|26-35|36-45,friendly|acquaintance,any,,false,any,adult,national,WB Массажеры
+item_011,product,Подарочный набор для ванны,Bath & Body Works,Gift Set,Набор для спа-процедур дома. Соль пена и масло.,beauty,beauty,1100,2000,newyear|birthday|just_because,friend|relative,female,4.3,260,66,70,3,any,,18-25|26-35|36-45|46-55,close|friendly,any,,false,any,adult,national,WB Наборы
+item_012,product,Коврик для йоги 6мм,Bradex,Yoga Mat 6mm,Коврик для йоги и фитнеса толщиной 6 мм. Нескользящее покрытие.,sport,fitness,1200,2400,birthday|just_because,friend,any,4.6,280,74,85,2,any,,18-25|26-35|36-45,close|friendly,any,,false,minimalism,adult,national,WB Коврики
+item_013,product,Гантели разборные 2x5кг,Bradex,Adjustable 2x5,Разборные гантели по 5 кг каждая. Регулировка веса.,sport,fitness,2500,4500,birthday|just_because,friend|partner,male,4.5,150,68,25,4,any,,18-25|26-35|36-45,close|friendly,any,,false,any,adult,national,WB Гантели
+item_014,product,Беговые носки 3 пары,Injinji,Run 3-Pack,Беговые носки с усиленной амортизацией.,sport,running,700,1300,just_because|birthday,friend|colleague,any,4.1,410,52,200,1,any,,18-25|26-35|36-45|46-55,friendly|acquaintance|formal,any,,false,any,adult,national,WB Носки
+item_015,product,Книга Атлас тихой жизни,МИФ,Атлас тихой жизни,Подарочное издание книги об искусстве и эстетике.,books,reading|art,1200,2000,birthday|newyear|just_because,friend|relative,any,4.7,90,60,35,6,any,,26-35|36-45|46-55|56+,close|friendly,any,,false,classic,adult,national,WB Книги
+item_016,product,Настольная игра Каркассон,Hobby World,Каркассон,Классическая настольная игра про строительство городов.,books,board_games,1500,2600,birthday|newyear|just_because,friend|teen,any,4.8,520,86,100,2,any,teen,18-25|26-35|36-45,close|friendly,any,,false,any,adult,national,WB Настолки
+item_017,product,Книга-блокнот для скетчей А5,Moleskine,Sketchbook A5,Блокнот для скетчей формата А5. Плотная бумага.,books,art|reading,600,1100,just_because|birthday,friend|teen,female,4.4,140,50,130,2,creative,,18-25|26-35,close|friendly,any,,false,any,adult,national,WB Скетчбуки
+item_018,product,Смарт-часы фитнес-трекер,Xiaomi,Smart Band 8,Фитнес-трекер с пульсометром. Отслеживает сон и шаги.,tech,tech|fitness,3000,5500,birthday|newyear,friend|partner|teen,any,4.5,610,84,20,3,it|business,,18-25|26-35|36-45,close|friendly,any,,false,hi_tech,adult,national,WB Трекеры
+item_019,product,Портативная колонка Bluetooth,JBL,Flip 6,Портативная Bluetooth-колонка с водозащитой.,tech,tech|music|travel,2000,3800,birthday|newyear|just_because,friend|teen,any,4.4,470,76,55,2,any,,18-25|26-35|36-45,close|friendly,any,,false,any,adult,national,WB Колонки
+item_020,product,Наушники TWS,Apple,AirPods 3,Беспроводные наушники TWS с кейсом для зарядки.,tech,tech|music,1800,3500,birthday|just_because,colleague|teen,any,4.3,730,80,65,2,it|creative,,18-25|26-35,close|friendly|formal,any,,false,hi_tech,adult,national,WB TWS
+item_021,product,Фотоаппарат мгновенной печати,Fujifilm,Instax Mini 12,Камера мгновенной печати. Делает снимки и сразу печатает.,tech,photography|art,4500,7500,birthday|newyear|wedding,partner|teen,any,4.6,210,62,0,7,creative,,18-25|26-35,close|friendly,any,,false,vintage,adult,national,WB Камеры
+item_022,experience,Сертификат на мастер-класс по кулинарии,Кулинарная школа,МК Кулинария,Сертификат на групповой кулинарный мастер-класс.,experience,cooking,2500,4000,birthday|anniversary|just_because,partner|friend,any,4.7,80,58,999,1,any,,26-35|36-45|46-55,close|friendly,married|in_relationship,,false,any,couple,local,Локальные школы
+item_023,experience,Сертификат на фотосессию 1 час,Фотостудия,Фотосессия 1ч,Сертификат на индивидуальную фотосессию. Работа фотографа.,experience,photography,3500,6000,anniversary|birthday|wedding,partner|friend,female,4.8,110,60,999,1,creative,,18-25|26-35,close,married|in_relationship,,true,any,couple,local,Локальные студии
+item_024,experience,Сертификат на дегустацию кофе,Кофейня,Дегустация кофе,Сертификат на дегустацию кофе. Разные сорта и способы.,experience,coffee,1500,2800,birthday|just_because|newyear,friend|colleague,any,4.5,65,54,999,1,any,,18-25|26-35|36-45,friendly|acquaintance|formal,any,,false,any,adult,local,Локальные кофейни
+item_025,experience,Сертификат на скалодром (2 визита),Скалодром,2 визита,Сертификат на два посещения скалодрома. Прокат снаряжения.,experience,fitness|travel,2000,3500,birthday|just_because,friend|teen,any,4.4,45,48,999,1,any,teen,18-25|26-35,close|friendly,any,,false,any,adult,local,Локальные скалодромы
+item_026,product,Вертикальная эргономичная мышь,Logitech,MX Vertical,Вертикальная беспроводная мышь. Снижает нагрузку на запястье.,tech,tech|fitness,1500,3500,birthday|newyear|just_because,colleague,male,4.7,890,88,75,2,it|business,,26-35|36-45|46-55,friendly|acquaintance|formal,any,,false,hi_tech,colleague,national,WB Мыши
+item_027,product,Механическая клавиатура 75%,Keychron,K2 Pro,Механическая клавиатура с подсветкой. Компактный формат.,tech,tech|gaming,3500,6500,birthday|newyear|just_because,colleague|friend,any,4.8,640,90,40,3,it|creative,,18-25|26-35|36-45,close|friendly|formal,any,,false,hi_tech,adult,national,WB Клавиатуры
+item_028,product,Подставка для ноутбука с охлаждением,Cooler Master,Notepal X3,Подставка для ноутбука с вентиляторами. Защита от перегрева.,tech,tech,1200,2500,just_because|birthday,colleague,any,4.4,310,62,110,2,it|business,,18-25|26-35|36-45,friendly|acquaintance|formal,any,,false,hi_tech,colleague,national,WB Подставки
+item_029,product,Кабельный менеджмент набор,Orico,Cable Organizer,Набор для организации проводов. Клипсы и стяжки.,tech,tech|minimalism,600,1400,just_because|birthday,colleague,any,4.3,180,45,200,1,it|business,,18-25|26-35|36-45,friendly|acquaintance|formal,any,,false,minimalism,colleague,national,WB Органайзеры
+item_030,product,Внешний SSD 1TB,Samsung,T7 Shield,Внешний SSD-диск на 1 ТБ. Высокая скорость передачи данных.,tech,tech,4500,8500,birthday|newyear|just_because,colleague,any,4.7,520,82,35,3,it|creative|business,,18-25|26-35|36-45|46-55,friendly|acquaintance|formal,any,,false,hi_tech,adult,national,WB SSD
+item_031,product,Настольная лампа с регулируемой температурой,Xiaomi,Mi LED Desk Lamp,Настольная LED-лампа с регулировкой яркости.,tech,tech|minimalism,1800,4200,birthday|just_because|newyear,colleague,any,4.6,290,70,60,2,it|creative|science,,18-25|26-35|36-45|46-55,friendly|acquaintance|formal,any,,false,minimalism,adult,national,WB Лампы
+item_032,product,Набор для пайки и электроники,Fortune,Самоделкин,Набор для пайки и электроники. Паяльник и инструменты.,tech,tech|diy,2000,4500,birthday|just_because|newyear,friend|colleague|teen,male,4.5,130,52,45,3,it|blue_collar,,18-25|26-35|36-45,close|friendly,any,,false,any,adult,national,WB Паяльные наборы
+item_033,product,Умная колонка,Яндекс,Станция Мини,Умная колонка с голосовым ассистентом.,tech,tech|music,2500,5500,newyear|birthday|just_because,friend|colleague,any,4.6,740,84,50,2,it|business,,18-25|26-35|36-45,close|friendly|formal,any,,false,hi_tech,adult,national,WB Умные колонки
+item_034,product,Робот-пылесос,Xiaomi,Roborock Q7,Робот-пылесос с навигацией. Убирает пыль и шерсть.,tech,tech|home,8000,18000,newyear|wedding|just_because,friend|partner,any,4.7,450,80,15,5,any,,26-35|36-45|46-55,close|friendly,married|in_relationship,,false,minimalism,adult,national,WB Роботы-пылесосы
+item_035,product,Умная кружка с подогревом,Redmond,SkyCup,Умная кружка с подогревом. Поддерживает температуру.,tech,tech|coffee,2000,4000,birthday|newyear|just_because,colleague,male,4.4,210,58,55,3,it|business,,26-35|36-45,close|friendly|formal,any,,false,hi_tech,colleague,national,WB Кружки
+item_036,product,Подарочный набор чая и меда,Азбука Вкуса,Чай и мед,Подарочный набор крафтового чая и меда.,experience,tea|coffee,1500,2800,newyear|birthday|just_because,colleague|relative,any,4.5,180,56,90,2,any,,26-35|36-45|46-55|56+,friendly|formal,any,,false,classic,adult,national,WB Наборы чая
+item_037,product,Эко-набор для уборки,Synergetic,Eco Clean,Набор эко-средств для уборки. Безопасные составы.,experience,home,1200,2200,newyear|just_because|novoselie,friend|colleague,any,4.3,95,42,120,2,any,,26-35|36-45,close|friendly,married|in_relationship,,false,minimalism,adult,national,WB Эко-уборка
+item_038,product,Набор инструментов (24 предмета),Stanley,Tool Set 24,Набор инструментов из 24 предметов. Молоток и отвертки.,tech,diy|home,2500,4500,newyear|birthday|novoselie,friend|relative|colleague,male,4.6,310,65,70,3,blue_collar|it,,26-35|36-45|46-55,close|friendly,married,,false,any,adult,national,WB Инструменты
+item_039,product,Стильная термокружка,Contigo,West Loop,Термокружка с герметичной крышкой. Держит тепло.,experience,travel|coffee,1000,2200,just_because|birthday,colleague|friend,any,4.4,420,60,140,1,any,,18-25|26-35|36-45|46-55,friendly|acquaintance|formal,any,,false,minimalism,adult,national,WB Термокружки
+item_040,product,Настольная игра Колонизаторы,Hobby World,Колонизаторы,Экономическая стратегия для компании.,books,board_games,1800,3200,birthday|newyear|just_because,friend|colleague,any,4.8,610,86,80,2,any,,18-25|26-35|36-45,close|friendly|formal,any,,false,any,adult,national,WB Настолки
+item_041,product,Набор для выращивания микрозелени,Гавриш,Микрозелень,Набор для выращивания микрозелени на подоконнике.,experience,gardening|cooking,900,1800,newyear|just_because|novoselie,friend|colleague,any,4.3,140,48,130,2,any,,26-35|36-45|46-55,close|friendly,any,,false,boho,adult,national,WB Микрозелень
+item_042,product,Плед с рукавами-пончо,Oysho,Плед-пончо,Плед с рукавами и капюшоном. Очень мягкий.,experience,home,1200,2400,newyear|just_because,friend|relative|teen,female,4.5,230,62,85,2,any,teen,18-25|26-35|36-45|46-55,close|friendly,any,,false,scandi,adult,national,WB Пледы
+item_043,product,Ароматический диффузор с маслами,Aromacode,Диффузор,Ароматический диффузор с палочками и эфирными маслами.,experience,home|beauty,1100,2500,newyear|just_because|novoselie,friend|colleague,female,4.4,190,55,95,2,any,,26-35|36-45|46-55,close|friendly|acquaintance,married|in_relationship,,false,boho,adult,national,WB Диффузоры
+item_044,product,Набор красивых свечей (3 шт),IKEA,Sinnlig 3pcs,Набор декоративных свечей из соевого воска.,experience,home|beauty,800,1800,newyear|just_because|novoselie,friend|colleague,female,4.5,260,58,140,1,any,,18-25|26-35|36-45,friendly|acquaintance|formal,any,,false,classic,adult,national,WB Свечи
+item_045,experience,Сертификат на клининг,Клининговая компания,Генеральная уборка,Сертификат на генеральную уборку квартиры.,experience,home,2500,5000,novoselie|just_because|wedding,friend|partner,any,4.6,80,50,999,1,any,,26-35|36-45,close|friendly,married|in_relationship,,true,any,couple,local,Локальные клининги
+item_046,product,Набор эко-средств для ванной,Synergetic,Eco Bath,Эко-набор для ванной. Натуральный состав.,beauty,beauty|home,900,2000,newyear|just_because,friend|colleague,any,4.2,150,45,160,2,any,,26-35|36-45,close|friendly,any,,false,minimalism,adult,national,WB Эко-косметика
+item_047,product,Мольберт детский двусторонний,Маша и Медведь,Мольберт 2в1,Двусторонний мольберт для рисования.,kids,art|education,1500,3000,newyear|birthday|1_september,kid,any,4.7,210,68,60,2,education|creative,preschool|school,,close|friendly,married,,false,any,kid,national,WB Мольберты
+item_048,product,Кинетический песок с песочницей,Kinetic Sand,Sandbox Set,Кинетический песок с формочками. Развивает моторику.,kids,art|education,800,1800,newyear|birthday,kid,any,4.6,340,64,90,2,any,preschool|toddler,,close|friendly,married,,false,any,kid,national,WB Кинетический песок
+item_049,product,Магнитный конструктор 50 деталей,Magformers,Magformers 50,Магнитный конструктор из 50 деталей.,kids,education|tech,1800,3500,newyear|birthday|1_september,kid,any,4.8,420,72,70,2,any,preschool|school,,close|friendly,married,,false,any,kid,national,WB Конструкторы
+item_050,product,Набор для создания украшений,Lori,Создание украшений,Набор для создания украшений. Бусины и леска.,kids,art|beauty,700,1600,newyear|birthday,kid,female,4.5,280,60,110,1,any,preschool|school,,close|friendly,married,,false,any,kid,national,WB Наборы украшений
+item_051,product,Кукольный домик с мебелью,Sylvanian Families,Домик с мебелью,Кукольный домик с мебелью и фигурками.,kids,art,3000,6500,newyear|birthday,kid,female,4.7,190,66,35,4,any,preschool,,close|friendly,married,,false,classic,kid,national,WB Кукольные домики
+item_052,product,Самокат трёхколёсный,Micro,Mini Deluxe,Трехколесный самокат с ручкой. Устойчивый.,kids,sport,2000,4000,birthday|newyear|1_september,kid,any,4.6,310,70,55,3,any,toddler|preschool,,close|friendly,married,,false,any,kid,national,WB Самокаты
+item_053,product,Набор Доктор в чемоданчике,Bony,Доктор,Игровой набор доктора в чемоданчике.,kids,education,800,1800,birthday|newyear,kid,any,4.4,260,58,100,2,healthcare,preschool,,close|friendly,married,,false,any,kid,national,WB Наборы доктора
+item_054,product,Детская кухня с посудой,KidKraft,Кухня с посудой,Детская игровая кухня с посудой. Плита и раковина.,kids,cooking,2500,5500,newyear|birthday,kid,female,4.5,180,62,40,4,any,preschool,,close|friendly,married,,false,scandi,kid,national,WB Детские кухни
+item_055,product,Интерактивный глобус,Oregon Scientific,Звездное небо,Интерактивный глобус. Показывает созвездия.,kids,education|science,2000,4500,birthday|1_september|newyear,kid,any,4.6,140,54,50,3,education|science,school,,close|friendly,married,,false,any,kid,national,WB Глобусы
+item_056,product,Набор для опытов Юный химик,Профессор Эйн,Юный химик,Набор для простых химических опытов.,kids,education|science,1200,2800,birthday|1_september|newyear,kid,any,4.7,220,60,75,2,science,preschool|school,,close|friendly,married,,false,any,kid,national,WB Наборы опытов
+item_057,product,Парные кружки с принтом,Кружки,Парные кружки,Парные керамические кружки с принтом.,couple,home,900,1800,anniversary|wedding|birthday,partner,any,4.5,380,64,120,1,any,,18-25|26-35|36-45,close,married|in_relationship,,true,any,couple,national,WB Парные кружки
+item_058,product,Парные футболки,Print Bar,Парные футболки,Парные футболки из хлопка. Для семейных фото.,couple,home,1500,3000,anniversary|wedding|birthday,partner,any,4.3,250,55,90,2,any,,18-25|26-35,close,married|in_relationship,,true,any,couple,national,WB Парные футболки
+item_059,experience,Сертификат на ужин для двоих,Ресторан,Ужин для двоих,Сертификат на романтический ужин в ресторане.,couple,cooking,4000,8000,anniversary|wedding|birthday,partner,any,4.8,150,62,999,1,any,,26-35|36-45|46-55,close,married|in_relationship,,true,any,couple,local,Локальные рестораны
+item_060,product,Подарочный набор для двоих (свечи+плед),Candle Box,Набор для двоих,Набор для создания романтической атмосферы.,couple,home,2000,4000,anniversary|wedding|newyear,partner,any,4.6,110,56,60,2,any,,18-25|26-35|36-45,close,married|in_relationship,,true,boho,couple,national,WB Наборы для двоих
+item_061,product,Набор для автолюбителя,Airline,Автонабор,Автомобильный набор для экстренных ситуаций.,auto,auto|diy,2000,4500,birthday|newyear|23_feb,friend|relative|colleague,male,4.5,230,60,55,3,blue_collar|any,,26-35|36-45|46-55|56+,close|friendly|formal,any,,false,any,adult,national,WB Автонаборы
+item_062,product,Держатель для телефона в машину,Baseus,Magnetic Mount,Магнитный держатель для телефона в машину.,auto,auto|tech,800,1800,birthday|23_feb|just_because,colleague,any,4.3,410,58,120,1,any,,18-25|26-35|36-45|46-55,friendly|acquaintance|formal,any,,false,hi_tech,adult,national,WB Держатели
+item_063,product,Набор для мотоциклиста,Motul,Moto Kit,Мотоциклетный набор для защиты от ветра.,moto,moto,1500,3500,birthday|23_feb|newyear,friend|partner,male,4.6,140,52,40,3,any,,18-25|26-35|36-45,close|friendly,any,,false,any,adult,national,WB Мотонаборы
+item_064,product,Лежанка для собаки,Midwest,Лежанка M,Мягкая лежанка для собак. Съемный чехол.,pets,pets,1500,3500,just_because|newyear|novoselie,friend,any,4.5,320,62,75,2,any,,18-25|26-35|36-45|46-55|56+,close|friendly,any,dog,false,any,adult,national,WB Лежанки
+item_065,product,Игровой комплекс для кошки,Petstages,Игровой комплекс,Игровой комплекс для кошек с когтеточкой.,pets,pets,2500,5500,just_because|newyear,friend,any,4.6,180,58,50,3,any,,18-25|26-35|36-45|46-55,close|friendly,any,cat,false,any,adult,national,WB Комплексы
+item_066,product,Аксессуары для клетки грызунов,IRIS,Аксессуары для грызунов,Аксессуары для клетки грызунов.,pets,pets,1000,2500,just_because,kid,any,4.2,90,42,80,2,any,,18-25|26-35|36-45,close,any,rodent,false,any,adult,national,WB Грызуны
+item_067,product,Кормушка для птиц,Домовой,Кормушка,Подвесная кормушка для птиц.,pets,pets|gardening,800,1800,just_because|newyear,relative,any,4.4,110,45,95,2,any,,46-55|56+,close|friendly,any,bird,false,boho,adult,national,WB Кормушки
+item_068,product,Аквариумный набор,Aqua,Аквариум 30л,Аквариумный набор на 30 литров.,pets,pets,2000,4500,birthday|just_because,friend,any,4.5,130,50,30,3,any,,18-25|26-35|36-45,close,any,fish,false,any,adult,national,WB Аквариумы
+item_069,experience,Попкорн-набор для киновечеров,Popcorn Box,Кинонабор,Набор для домашнего кинотеатра.,experience,cinema,900,1800,newyear|birthday|just_because,friend|partner,any,4.4,210,55,140,1,any,,18-25|26-35,close|friendly,any,,false,classic,adult,national,WB Наборы для кино
+item_070,experience,Подписка на киносервис (год),Кинопоиск,Подписка 12мес,Годовая подписка на онлайн-кинотеатр.,experience,cinema|series,2000,4000,newyear|birthday|just_because,colleague,any,4.6,340,62,999,1,it|creative|business,,18-25|26-35|36-45|46-55,friendly|acquaintance|formal,any,,false,hi_tech,adult,national,WB Подписки
+item_071,product,Настольная игра по сериалу,Hobby World,Игра по сериалу,Настольная игра по мотивам сериала.,books,board_games|series,1500,3000,birthday|newyear,friend,any,4.3,170,52,85,2,any,,18-25|26-35|36-45,close|friendly,any,,false,any,adult,national,WB Настолки
+item_072,product,Премиум-набор для вина,L'Atelier du Vin,Премиум-набор,Премиум-набор для вина.,premium,home,15000,25000,wedding|anniversary|birthday,partner|boss,any,4.8,80,58,20,5,any,,36-45|46-55|56+,close|formal,married|in_relationship,,false,classic,adult,national,WB Премиум-наборы
+item_073,product,Премиум-плед кашемировый,Johnstons of Elgin,Кэшемир,Кашемировый плед премиум-класса.,premium,home,15000,30000,wedding|anniversary|newyear,partner|relative,any,4.9,60,55,15,6,any,,36-45|46-55|56+,close|friendly,married,,false,classic,adult,national,WB Пледы
+item_074,product,Набор для 23 февраля,Stanley,Защитник,Подарочный набор для мужчин (термос фонарь).,experience,travel|diy,2000,4500,23_feb|birthday,colleague|relative,male,4.6,290,64,60,3,blue_collar|it|any,,26-35|36-45|46-55,close|friendly|formal,any,,false,any,adult,national,WB Наборы 23фев
+item_075,product,Набор для 8 марта,Flowers Box,Для милых дам,Подарочный набор для женщин (цветы свечи).,experience,home|tea,1500,3500,8_march|birthday,colleague|relative,female,4.5,210,60,90,2,any,,26-35|36-45|46-55|56+,friendly|formal,any,,false,boho,adult,national,WB Наборы 8март
+item_076,product,Набор для новорождённого,Zara Home,Newborn Set,Набор для новорожденных (слинг плед).,kids,education,2000,4500,newborn|newyear|just_because,friend|colleague,any,4.7,140,58,70,3,any,infant,,close|friendly,married|in_relationship,,false,scandi,kid,national,WB Наборы новорожденным
+item_077,product,Развивающий коврик 0-1 год,Tiny Love,Коврик 0-1,Развивающий коврик для детей от 0 до 1 года.,kids,education,1500,3500,newborn|birthday,kid,any,4.6,190,60,80,2,any,infant,,close|friendly,married,,false,any,kid,national,WB Коврики
+item_078,experience,Набор для учителя,Moleskine,Учителю,Подарочный набор для учителя (ежедневник ручка).,experience,education|tea,1000,2500,teacher_day|1_september|birthday,colleague,any,4.4,160,50,110,2,education,,26-35|36-45|46-55|56+,friendly|formal,any,,false,classic,colleague,national,WB Наборы учителю
+item_079,product,Подарок начальнику,Pinetti,Органайзер премиум,Настольный органайзер премиум-класса.,premium,home|minimalism,5000,12000,birthday|newyear|just_because,boss,any,4.5,70,48,25,4,business,,36-45|46-55|56+,formal,any,,false,minimalism,boss,national,WB Органайзеры
+item_080,experience,Сертификат в SPA для двоих,SPA-салон,SPA для двоих,Сертификат на SPA-программу для двоих.,experience,beauty,8000,15000,anniversary|wedding|8_march,partner,any,4.8,130,60,999,1,any,,26-35|36-45|46-55,close,married|in_relationship,,true,any,couple,local,Локальные SPA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
